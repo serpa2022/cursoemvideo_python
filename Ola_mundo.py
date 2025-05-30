@@ -1,0 +1,6 @@
+print ("Olá, mundo!")
+print ("###############################")
+print ("Esse é seu curso de Python")
+print ("###############################")
+print ("Preste atenção nas aulas!")
+print ("E faça bastante exercícios!")
